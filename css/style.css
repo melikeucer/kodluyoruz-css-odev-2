@@ -1,0 +1,52 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .section-center {
+  text-align: center;
+  margin:auto;
+  background-color: #EEEEEE;
+  width: 90%;
+ }
+
+ .box1{
+    background-color:#7EE5DA;
+    width:37%;
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 1px;
+    float: left;
+    height: 63px;
+    padding-top:10px;
+    
+}
+
+.box2{
+    background-color:#70CCC2 ;
+     text-align: center;
+     width:17%;
+     float: left;
+     font-size: small;
+     margin: 1px;
+     height: 73px;
+    }
+
+.box3{
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 1px;
+    float:left;
+    width: 36%;
+    font-size:small;
+    height: 69px;
+    display: table;
+
+}
+
+.text-center{
+    text-align: center;
+    clear: left;
+    font-size:small;
+}
